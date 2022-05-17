@@ -3,7 +3,7 @@ package JavaPracticeExampleArray;
 public class FrequencyOfElements {
 
 	public static void main(String[] args) {
-		int[] a = new int[] { 1, 3, 4, 3, 3, 2, 2, 2, 5, 2 };
+		int[] a = new int[] { 1, 3, 4, 3, 3, 2, 2, 2, 5, 3,5,5};
 
 		int[] f = new int[a.length];
 		int visit = -1;
